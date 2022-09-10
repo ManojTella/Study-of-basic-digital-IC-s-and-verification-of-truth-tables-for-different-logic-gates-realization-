@@ -81,7 +81,7 @@ endmodule
 <img width="895" alt="truthtable" src="https://user-images.githubusercontent.com/94883876/189270485-044a8a11-d412-4752-ab3e-ee9074c949ad.png">
 
 #### RTL realization
-<img width="746" alt="s1" src="https://user-images.githubusercontent.com/94883876/189270496-ed84bab4-cdc1-43d7-b54f-2ae5912a2bac.png">
+![e1](https://user-images.githubusercontent.com/94883876/189489517-0b0ec19e-45b6-45ca-9a52-a835b5c0a672.jpg)
 
 
 
